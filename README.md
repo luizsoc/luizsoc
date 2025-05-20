@@ -1,7 +1,7 @@
 <!-- Fundo com gradiente escuro moderno -->
 <div align="center" style="background: linear-gradient(135deg, #0F2027 0%, #203A43 50%, #2C5364 100%); padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 
-<h1 style="color:#64ffda; font-size: 42px; margin-bottom: 10px; text-shadow: 0 0 10px rgba(100,255,218,0.3);">Olá, me chamo Luiz 👨‍💻</h1>
+<h1 style="color:#64ffda; font-size: 42px; margin-bottom: 10px; text-shadow: 0 0 10px rgba(100,255,218,0.3);">Olá, me chamo Luiz 🖐️</h1>
 
 <div style="margin: 30px 0;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Desenvolvedor Programando" style="border-radius: 15px; box-shadow: 0 0 20px rgba(100,255,218,0.5);" />
@@ -9,7 +9,7 @@
 
 <hr style="border: 1px solid #64ffda; width: 80%; margin: 30px auto;" />
 
-## 💫 Sobre Mim
+## 👨‍💻 Sobre Mim
 <p style="color:#e6e6e6; font-size: 18px; max-width: 700px; margin: 20px auto; line-height: 1.6;">
 Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e funcionais. Tenho foco em escrever código limpo, eficiente e escalável, sempre buscando aprender e crescer profissionalmente enfrentando novos desafios. Minha motivação está em criar tecnologias que impactem positivamente a vida das pessoas.
 </p>
