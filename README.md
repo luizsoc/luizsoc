@@ -11,12 +11,20 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e fun
 
 ## 💻 Tecnologias & Ferramentas
 
-<div style="display: inline-block;">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
-  <img align="center" alt="API REST" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/api.png" />
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<div style="display: flex; align-items: center; gap: 15px;">
+  <!-- Python destacado maior -->
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border-radius: 8px; box-shadow: 0 0 8px #306998;" />
+
+  <!-- Frameworks e tecnologias Python próximas -->
+  <img alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+  <img alt="API REST" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/api.png" />
+
+  <!-- Espaço maior antes das outras tecnologias -->
+  <div style="width: 30px;"></div>
+
+  <!-- JavaScript e Git menores ao final -->
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
 ---
