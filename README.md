@@ -47,11 +47,3 @@ Desenvolvedor apaixonado por criar soluções que transformam ideias em realidad
 </div>
 
 ---
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=luizsoc&color=blueviolet" alt="Profile views" />
-  </p>
-  
-  ⭐️ Feito com ❤️ por Luiz
-</div>
