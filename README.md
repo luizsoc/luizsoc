@@ -17,66 +17,19 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e fun
 <hr style="border: 1px solid #64ffda; width: 80%; margin: 30px auto;" />
 
 ## 💻 Tecnologias & Ferramentas
-<div style="display: flex; justify-content: center; gap: 10px; margin: 25px 0; flex-wrap: wrap;">
-  <!-- HTML5 -->
-  <div style="background-color: #E34F26; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="HTML5" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 5px;"/>
-    HTML5
-  </div>
+
+<div align="center">
   
-  <!-- CSS3 -->
-  <div style="background-color: #1572B6; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="CSS3" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 5px;"/>
-    CSS3
-  </div>
-  
-  <!-- JavaScript -->
-  <div style="background-color: #F7DF1E; color: black; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 5px;"/>
-    JAVASCRIPT
-  </div>
-  
-  <!-- TypeScript -->
-  <div style="background-color: #3178C6; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="TypeScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="margin-right: 5px;"/>
-    TYPESCRIPT
-  </div>
-  
-  <!-- React -->
-  <div style="background-color: #282C34; color: #61DAFB; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-right: 5px;"/>
-    REACT
-  </div>
-  
-  <!-- Node.js -->
-  <div style="background-color: #339933; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="Node.js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="margin-right: 5px;"/>
-    NODE.JS
-  </div>
-  
-  <!-- Python -->
-  <div style="background-color: #3776AB; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 5px;"/>
-    PYTHON
-  </div>
-  
-  <!-- Django -->
-  <div style="background-color: #092E20; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="Django" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" style="margin-right: 5px;"/>
-    DJANGO
-  </div>
-  
-  <!-- API REST -->
-  <div style="background-color: #0096D6; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="API REST" height="20" width="20" src="https://img.icons8.com/ios-filled/50/FFFFFF/api.png" style="margin-right: 5px;"/>
-    API REST
-  </div>
-  
-  <!-- Git -->
-  <div style="background-color: #F05032; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
-    <img alt="Git" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-right: 5px;"/>
-    GIT
-  </div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 <hr style="border: 1px solid #64ffda; width: 80%; margin: 30px auto;" />
@@ -115,9 +68,3 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e fun
 </div>
 
 <hr style="border: 1px solid #64ffda; width: 80%; margin: 30px auto;" />
-
-<div style="margin-top: 30px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luizsoc.luizsoc" alt="Contador de Visitas" style="border-radius: 10px; box-shadow: 0 0 10px rgba(100,255,218,0.5);" />
-</div>
-
-</div>
