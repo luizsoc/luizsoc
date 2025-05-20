@@ -7,13 +7,6 @@
 ## 💫 Sobre Mim
 Desenvolvedor apaixonado por criar soluções que transformam ideias em realidade. Focado em escrever código limpo e eficiente, sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
-## 🚀 Experiência Profissional
-- **[Empresa Atual]** - Desenvolvedor [Cargo] (Mês/Ano - Presente)
-- **[Empresa Anterior]** - Desenvolvedor [Cargo] (Mês/Ano - Mês/Ano)
-
-## 🎓 Formação Acadêmica
-- **[Curso]** em [Instituição] (Ano de conclusão)
-
 ## 💻 Tecnologias & Ferramentas
 
 <div style="display: inline_block">
