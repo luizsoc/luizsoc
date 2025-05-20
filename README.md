@@ -17,45 +17,65 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e fun
 <hr style="border: 1px solid #64ffda; width: 80%; margin: 30px auto;" />
 
 ## 💻 Tecnologias & Ferramentas
-<div style="display: flex; flex-direction: column; gap: 10px; margin: 25px 0; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px; margin: 25px 0; flex-wrap: wrap;">
+  <!-- HTML5 -->
+  <div style="background-color: #E34F26; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="HTML5" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 5px;"/>
+    HTML5
+  </div>
+  
+  <!-- CSS3 -->
+  <div style="background-color: #1572B6; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="CSS3" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 5px;"/>
+    CSS3
+  </div>
+  
   <!-- JavaScript -->
-  <div style="display: flex; align-items: center; width: 80%; background: linear-gradient(90deg, #f7df1e 70%, rgba(247,223,30,0.3) 100%); border-radius: 30px; padding: 3px; margin: 5px 0;">
-    <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 0 15px;" />
-    <span style="color: #000; font-weight: bold; font-size: 18px;">JavaScript</span>
-    <div style="flex-grow: 1;"></div>
-    <span style="margin-right: 15px; color: #000; font-weight: bold;">85%</span>
+  <div style="background-color: #F7DF1E; color: black; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 5px;"/>
+    JAVASCRIPT
+  </div>
+  
+  <!-- TypeScript -->
+  <div style="background-color: #3178C6; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="TypeScript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="margin-right: 5px;"/>
+    TYPESCRIPT
+  </div>
+  
+  <!-- React -->
+  <div style="background-color: #282C34; color: #61DAFB; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-right: 5px;"/>
+    REACT
+  </div>
+  
+  <!-- Node.js -->
+  <div style="background-color: #339933; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="Node.js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="margin-right: 5px;"/>
+    NODE.JS
   </div>
   
   <!-- Python -->
-  <div style="display: flex; align-items: center; width: 80%; background: linear-gradient(90deg, #3776ab 78%, rgba(55,118,171,0.3) 100%); border-radius: 30px; padding: 3px; margin: 5px 0;">
-    <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin: 0 15px;" />
-    <span style="color: #fff; font-weight: bold; font-size: 18px;">Python</span>
-    <div style="flex-grow: 1;"></div>
-    <span style="margin-right: 15px; color: #fff; font-weight: bold;">90%</span>
+  <div style="background-color: #3776AB; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 5px;"/>
+    PYTHON
   </div>
   
   <!-- Django -->
-  <div style="display: flex; align-items: center; width: 80%; background: linear-gradient(90deg, #092e20 75%, rgba(9,46,32,0.3) 100%); border-radius: 30px; padding: 3px; margin: 5px 0;">
-    <img alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" style="margin: 0 15px;" />
-    <span style="color: #fff; font-weight: bold; font-size: 18px;">Django</span>
-    <div style="flex-grow: 1;"></div>
-    <span style="margin-right: 15px; color: #fff; font-weight: bold;">82%</span>
+  <div style="background-color: #092E20; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="Django" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" style="margin-right: 5px;"/>
+    DJANGO
   </div>
   
   <!-- API REST -->
-  <div style="display: flex; align-items: center; width: 80%; background: linear-gradient(90deg, #61dafb 80%, rgba(97,218,251,0.3) 100%); border-radius: 30px; padding: 3px; margin: 5px 0;">
-    <img alt="API REST" height="40" width="40" src="https://img.icons8.com/ios-filled/50/000000/api.png" style="margin: 0 15px; filter: brightness(0) invert(1);" />
-    <span style="color: #000; font-weight: bold; font-size: 18px;">API REST</span>
-    <div style="flex-grow: 1;"></div>
-    <span style="margin-right: 15px; color: #000; font-weight: bold;">88%</span>
+  <div style="background-color: #0096D6; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="API REST" height="20" width="20" src="https://img.icons8.com/ios-filled/50/FFFFFF/api.png" style="margin-right: 5px;"/>
+    API REST
   </div>
   
   <!-- Git -->
-  <div style="display: flex; align-items: center; width: 80%; background: linear-gradient(90deg, #f05032 72%, rgba(240,80,50,0.3) 100%); border-radius: 30px; padding: 3px; margin: 5px 0;">
-    <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin: 0 15px;" />
-    <span style="color: #fff; font-weight: bold; font-size: 18px;">Git</span>
-    <div style="flex-grow: 1;"></div>
-    <span style="margin-right: 15px; color: #fff; font-weight: bold;">78%</span>
+  <div style="background-color: #F05032; color: white; font-weight: bold; border-radius: 5px; padding: 8px 12px; display: flex; align-items: center; margin: 5px;">
+    <img alt="Git" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-right: 5px;"/>
+    GIT
   </div>
 </div>
 
