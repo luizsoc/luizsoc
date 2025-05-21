@@ -16,26 +16,28 @@ Sou um desenvolvedor **Backend** com foco em aplicações web robustas utilizand
 
 ---
 
-### 🧰 Tecnologias
+### 📊 Estatísticas do GitHub
 
-- **Linguagens:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Django REST Framework
-- **Banco de Dados:** PostgreSQL
-- **Ferramentas:** Git, GitHub, Insomnia, DBeaver
-- **Outros:** Linux, Swagger/OpenAPI
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsoc&layout=compact&theme=dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizsoc&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</div>
 
 ---
 
 ### 📌 Repositórios em destaque
 
-- 🔹 [API Gestão Pública](https://github.com/luizsoc/api-gestao-publica): Transparência de dados com Django REST
-- 🔹 [API Restaurante](https://github.com/luizsoc/api-restaurante): Sistema completo de pedidos com autenticação
+- 🗂️ [**API Gestão Pública**](https://github.com/luizsoc/api-gestao-publica)  
+  🔧 Transparência de dados com Django REST
+
+- 🍽️ [**API Restaurante**](https://github.com/luizsoc/api-restaurante)  
+  🛒 Sistema completo de pedidos com autenticação
 
 ---
 
 ### 📫 Contato
 
-- Email: luizsoc123@gmail.com  
-- LinkedIn: [linkedin.com/in/luizsoc](https://linkedin.com/in/luizsoc)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsoc123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizsoc)
 
 ---
