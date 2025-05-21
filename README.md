@@ -27,10 +27,10 @@ Sou um desenvolvedor **Backend** com foco em aplicações web robustas utilizand
 
 ### 📌 Repositórios em destaque
 
-- 🗂️ [**API Gestão Pública**](https://github.com/luizsoc/api-gestao-publica)  
+- 🗂️ [**API Gestão Pública**](https://github.com/luizsoc/gestao-publica-api)  
   🔧 Transparência de dados com Django REST
 
-- 🍽️ [**API Restaurante**](https://github.com/luizsoc/api-restaurante)  
+- 🍽️ [**API Restaurante**](https://github.com/luizsoc/restaurante-api)  
   🛒 Sistema completo de pedidos com autenticação
 
 ---
