@@ -34,10 +34,3 @@ Sou um desenvolvedor **Backend** com foco em aplicações web robustas utilizand
   🛒 Sistema completo de pedidos com autenticação
 
 ---
-
-### 📫 Contato
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizsoc123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizsoc)
-
----
