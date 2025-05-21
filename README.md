@@ -49,11 +49,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em soluções reais e fun
   <a href="mailto:luizsoc123@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 8px; box-shadow: 0 0 10px rgba(234,67,53,0.5);" />
   </a>
-  <a href="https://www.instagram.com/_luiz.oc/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 8px; box-shadow: 0 0 10px rgba(228,64,95,0.5);" />
-  </a>
-</div>
-
+  
 <hr style="border: 1px solid #64ffda; width: 80%; margin: 30px auto;" />
 
 ## 🏆 Principais Projetos
