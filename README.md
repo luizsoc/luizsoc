@@ -16,15 +16,6 @@ Sou um desenvolvedor **Backend** com foco em aplicações web robustas utilizand
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsoc&layout=compact&theme=dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizsoc&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</div>
-
----
-
 ### 📌 Repositórios em destaque
 
 - 🗂️ [**API Gestão Pública**](https://github.com/luizsoc/gestao-publica-api)  
