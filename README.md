@@ -1,11 +1,11 @@
-<h1 align="center">Luiz • Backend Developer 🐍</h1>
+<h1 align="center">Luiz • Backend Developer </h1>
 
 <p align="center">
   <em>Transformando ideias em APIs robustas e escaláveis</em>
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,postgres,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,cs,dotnet,django,spring,postgres,docker,git,linux&theme=dark" />
 </div>
 
 ---
