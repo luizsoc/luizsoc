@@ -1,7 +1,7 @@
-<h1 align="center">Luiz • Backend Developer </h1>
+<h1 align="center">Hi! I'm Luiz Silva • Backend Developer</h1>
 
 <p align="center">
-  <em>Transformando ideias em APIs robustas e escaláveis</em>
+  <em>Engineering robust and scalable backend solutions</em>
 </p>
 
 <div align="center">
@@ -10,9 +10,9 @@
 
 ---
 
-### 👨‍💻 Sobre
+### 👨‍💻 About
 
-Sou um desenvolvedor **Backend** com foco em aplicações web robustas utilizando **Python** e **Django**. Tenho experiência na construção de **APIs RESTful**, versionamento com **Git** e integração com tecnologias de frontend como **HTML, CSS e JavaScript**. Busco criar soluções limpas, escaláveis e com boa documentação.
+I'm a Backend Developer focused on building robust and scalable web applications using Python, Django, C#/.NET, and Java/Spring Boot. I have experience developing RESTful APIs, working with PostgreSQL, Entity Framework Core, Git/GitHub, and Docker. I also have knowledge of React and TypeScript, enabling efficient integration between backend and frontend. I strive to build clean, well-structured, secure, and well-documented solutions.
 
 ---
 
