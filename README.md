@@ -16,12 +16,9 @@ I'm a Backend Developer focused on building robust and scalable web applications
 
 ---
 
-### 📌 Repositórios em destaque
+### 📌 Featured Repository
 
-- 🗂️ [**API Gestão Pública**](https://github.com/luizsoc/gestao-publica-api)  
-  🔧 Transparência de dados com Django REST
-
-- 🍽️ [**API Restaurante**](https://github.com/luizsoc/restaurante-api)  
-  🛒 Sistema completo de pedidos com autenticação
+- 🎮 [**GameHub**](https://github.com/luizsoc/GameHub) 
+💬 Real-time gaming community built with C#/.NET, React, TypeScript, PostgreSQL, SignalR, and Docker.
 
 ---
