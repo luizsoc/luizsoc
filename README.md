@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,java,cs,dotnet,django,spring,postgres,docker,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,cs,dotnet,javascript,django,spring,postgres,docker,git,linux&theme=dark" />
 </div>
 
 ---
