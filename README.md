@@ -18,7 +18,14 @@ I'm a Backend Developer focused on building robust and scalable web applications
 
 ### 📌 Featured Repository
 
-- 🎮 [**GameHub**](https://github.com/luizsoc/GameHub) 
+- 🎮 [**GameHub**](https://github.com/luizsoc/GameHub)  
 💬 Real-time gaming community built with C#/.NET, React, TypeScript, PostgreSQL, SignalR, and Docker.
+
+---
+
+### 🌐 Portfolio
+
+- 💻 [**luizsoc.vercel.app**](https://luizsoc.vercel.app/)  
+My personal portfolio showcasing my backend development experience, projects, technical skills, and professional background.
 
 ---
