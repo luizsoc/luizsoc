@@ -21,13 +21,6 @@ I'm Luiz Silva, a Data Engineer coming from backend development. I build batch d
 🔄 [**DataFlow Pipeline**](https://github.com/luizsoc/dataflow-pipeline)  
 Batch ELT pipeline that turns ~1.07 million raw retail transactions (UCI Online Retail II) into a tested, analytics-ready star schema in PostgreSQL, orchestrated by Apache Airflow 3 and running end to end with a single `docker compose up`.
 
-- **Medallion Architecture:** Bronze (raw), Silver (cleaned with Pandas) and Gold (star schema built in SQL)
-- **Data quality gates:** 13 checks per run, 11 of them blocking; 46k invalid rows quarantined, each with a reason
-- **Idempotent and auditable:** re-runs change 0 rows, and every task and check is logged in an `audit` schema
-- **Tested:** 79 unit and integration tests, run in CI with GitHub Actions on every push and pull request
-
-**Stack:** Python · Pandas · SQL · PostgreSQL · Apache Airflow · Docker · GitHub Actions
-
 ---
 
 ### 🧰 Skills
