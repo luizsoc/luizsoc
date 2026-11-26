@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About
 
-I'm Luiz Silva, a Junior Data Engineer coming from backend development. I build batch data pipelines with Python, SQL, PostgreSQL and Apache Airflow, with a focus on data quality, testing and reproducibility. I have professional experience developing REST APIs and working with PostgreSQL databases at Minsait.
+I'm Luiz Silva, a Data Engineer coming from backend development. I build batch data pipelines with Python, SQL, PostgreSQL and Apache Airflow, with a focus on data quality, testing and reproducibility. I have professional experience developing REST APIs and working with PostgreSQL databases at Minsait.
 
 ---
 
