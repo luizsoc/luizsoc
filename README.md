@@ -10,13 +10,13 @@
 
 ---
 
-### 👨‍💻 About
+###  About
 
 I'm Luiz Silva, a Data Engineer coming from backend development. I build batch data pipelines with Python, SQL, PostgreSQL and Apache Airflow, with a focus on data quality, testing and reproducibility. I have professional experience developing REST APIs and working with PostgreSQL databases.
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 - 🔄 [**DataFlow Pipeline**](https://github.com/luizsoc/dataflow-pipeline)  
   Batch ELT pipeline that turns ~1.07 million raw retail transactions (UCI Online Retail II) into a tested, analytics-ready star schema in PostgreSQL, orchestrated by Apache Airflow 3 and running end to end with a single `docker compose up`.
@@ -26,7 +26,7 @@ I'm Luiz Silva, a Data Engineer coming from backend development. I build batch d
 
 ---
 
-### 🧰 Skills
+###  Skills
 
 - **Data Engineering:** Python · SQL · PostgreSQL · ETL/ELT · Pandas · Apache Airflow · Data Modeling (Star Schema) · Data Quality
 - **Data Analysis:** SQL · Pandas · Excel · Pivot tables
@@ -35,7 +35,7 @@ I'm Luiz Silva, a Data Engineer coming from backend development. I build batch d
 
 ---
 
-### 🌐 Portfolio
+###  Portfolio
 
-- 💻 [**luizsoc.vercel.app**](https://luizsoc.vercel.app/)  
+-  [**luizsoc.vercel.app**](https://luizsoc.vercel.app/)  
 My portfolio with Data Engineering projects, skills and professional experience.
